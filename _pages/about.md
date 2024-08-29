@@ -12,7 +12,7 @@ Hi, I'm Haowei Kuang(匡浩玮). I'm currently a Ph.D student at [School of Inte
 
 
 
-[Email](mallto:kuanghw@stu.pku.edu.cn) / [Github](https://github.com/EllisonKuang)
+[Email](mailto:kuanghw@stu.pku.edu.cn) / [Github](https://github.com/EllisonKuang)
 
 Publication
 ------

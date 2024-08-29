@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Haowei Kuang(匡浩玮)"
   pronouns         : "he/him"
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : "https://ellisonkuang.github.io/"

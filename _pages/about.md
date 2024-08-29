@@ -16,7 +16,7 @@ Hi, I'm Haowei Kuang(匡浩玮). I'm currently a Ph.D student at [School of Inte
 
 Publication
 ------
-*Equal contribution
+\*Equal contribution
 
 [1] Wang, Xingyue, Kuang Shu, Haowei Kuang, Shiwei Luo, Richu Jin, and Jiang Liu. "The role of spatial alignment in multimodal medical image fusion using deep learning for diagnostic problems." Proc. of the 2021 International Conference on Intelligent Medicine and Health, 2021.
 
@@ -24,4 +24,4 @@ Publication
 
 [3] Haowei Kuang, Yiyang Ma, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression", Accepted by ACM Multimedia (ACM MM), Melbourne, Australia, Oct. 2024.
 
-[4] Yiyang Ma*, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", Accepted by ACM Trans. on Multimedia Computing Communications and Applications (TOMM), July 2024.
+[4] Yiyang Ma\*, Haowei Kuang\*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", Accepted by ACM Trans. on Multimedia Computing Communications and Applications (TOMM), July 2024.

@@ -24,6 +24,8 @@ Publication
 
 [3] **Haowei Kuang**, Yiyang Ma, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression", Proc. of ACM Multimedia (ACM MM), Melbourne, Australia, Oct. 2024.
 
-[4] **Haowei Kuang**, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Cross-Granularity Online Optimization with Masked Compensated Information for Learned Image Compression", Accepted by International Conference on Computer Vision (ICCV), Honolulu, Hawaii, Oct. 2025.
+[4] **Haowei Kuang**, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Cross-Granularity Online Optimization with Masked Compensated Information for Learned Image Compression", Proc. of International Conference on Computer Vision (ICCV), Honolulu, Hawaii, Oct. 2025.
 
-[5] Yiyang Ma\*, **Haowei Kuang**\*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", ACM Trans. on Multimedia Computing Communications and Applications (TOMM), July 2024.
+[5] **Haowei Kuang**, Yu Cao, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Connecting Generation with Compression: Unified Generative Coding with Semantic Guidance", Accepted by Data Compression Conference (DCC), 	Snowbird, Utah, March 2026.
+
+[6] Yiyang Ma\*, **Haowei Kuang**\*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", ACM Trans. on Multimedia Computing Communications and Applications (TOMM), July 2024.

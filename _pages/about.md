@@ -18,13 +18,13 @@ Publication
 ------
 \*Equal contribution
 
-[1] **Haowei Kuang**, Haofeng Huang, Wenhan Yang, and Jiaying Liu. "Flash Compensated Low-Light Enhancement via Hierarchical Network Prediction", Proc. of IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, Oct. 2023.
+[1] **Haowei Kuang**, Wenhan Yang, Zongming Guo and Jiaying Liu. "Syntax-Driven Multi-Realism Image Compression with Consistency Guided Diffusion Model", Accepted by IEEE Trans. on Circuits and Systems for Video Technology (TCSVT), 2025. 
 
-[2] **Haowei Kuang**, Yiyang Ma, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression", Proc. of ACM Multimedia (ACM MM), Melbourne, Australia, Oct. 2024.
+[2] **Haowei Kuang**, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Cross-Granularity Online Optimization with Masked Compensated Information for Learned Image Compression", Proc. of International Conference on Computer Vision (ICCV), Honolulu, Hawaii, Oct. 2025.
 
-[3] **Haowei Kuang**, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Cross-Granularity Online Optimization with Masked Compensated Information for Learned Image Compression", Proc. of International Conference on Computer Vision (ICCV), Honolulu, Hawaii, Oct. 2025.
+[3] **Haowei Kuang**, Yiyang Ma, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression", Proc. of ACM Multimedia (ACM MM), Melbourne, Australia, Oct. 2024.
 
-[4] **Haowei Kuang**, Yu Cao, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Connecting Generation with Compression: Unified Generative Coding with Semantic Guidance", Accepted by Data Compression Conference (DCC), 	Snowbird, Utah, March 2026.
+[4] **Haowei Kuang**, Haofeng Huang, Wenhan Yang, and Jiaying Liu. "Flash Compensated Low-Light Enhancement via Hierarchical Network Prediction", Proc. of IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, Oct. 2023.
 
 [5] Yiyang Ma\*, **Haowei Kuang**\*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", ACM Trans. on Multimedia Computing Communications and Applications (TOMM), July 2024.
 

@@ -24,8 +24,10 @@ Publication
 
 [3] **Haowei Kuang**, Yiyang Ma, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression", Proc. of ACM International Conference on Multimedia (ACM MM), Melbourne, Australia, Oct. 2024.
 
-[4] **Haowei Kuang**, Haofeng Huang, Wenhan Yang, and Jiaying Liu. "Flash Compensated Low-Light Enhancement via Hierarchical Network Prediction", Proc. of IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, Oct. 2023.
+[4] **Haowei Kuang**, Yu Cao, Wenhan Yang, Zongming Guo, and Jiaying Liu. "Connecting Generation with Compression: Unified Generative Coding with Semantic Guidance", Accepted by IEEE International Conference on Multimedia and Expo (ICME), Bangkok, Thailand, July, 2026. 
 
-[5] Yiyang Ma\*, **Haowei Kuang**\*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", ACM Trans. on Multimedia Computing Communications and Applications (TOMM), July 2024.
+[5] **Haowei Kuang**, Haofeng Huang, Wenhan Yang, and Jiaying Liu. "Flash Compensated Low-Light Enhancement via Hierarchical Network Prediction", Proc. of IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, Oct. 2023.
 
-[6] Xingyue Wang, Kuang Shu, **Haowei Kuang**, Shiwei Luo, Richu Jin, and Jiang Liu. "The role of spatial alignment in multimodal medical image fusion using deep learning for diagnostic problems." Proc. of International Conference on Intelligent Medicine and Health, Macau, China, Nov. 2021.
+[6] Yiyang Ma\*, **Haowei Kuang**\*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", ACM Trans. on Multimedia Computing Communications and Applications (TOMM), July 2024.
+
+[7] Xingyue Wang, Kuang Shu, **Haowei Kuang**, Shiwei Luo, Richu Jin, and Jiang Liu. "The role of spatial alignment in multimodal medical image fusion using deep learning for diagnostic problems." Proc. of International Conference on Intelligent Medicine and Health, Macau, China, Nov. 2021.

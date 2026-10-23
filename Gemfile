@@ -26,3 +26,6 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+gem "csv", "~> 3.3"
+gem "bigdecimal", "~> 4.0" if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new("3.4")
